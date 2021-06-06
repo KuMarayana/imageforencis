@@ -1,3 +1,3 @@
 # imageforencis
 
-imageforencis adalah salah satu tools untuk download berbagai foto dimana pun  bisa seperti di website dan lain lain
+imageforencis adalah salah satu tools untuk melakukan forencis terhadap berbagai f dimana pun  bisa seperti di website dan lain lain
