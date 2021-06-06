@@ -36,8 +36,7 @@ def testForExif(imgFileName):
             exifData[decoded] = value
           exifGPS = exifData['GPSinfo']
           if exifGPS:
-             print '[*] ' + imgFileName + \ 
-                ' contains GPS MetaData'
+             print '[*] ' + imgFileName + ' gps for info guys'
        except:
           pass
 def main():
